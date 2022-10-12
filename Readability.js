@@ -38,6 +38,10 @@ function ConvertToReadable(Type)
     'EvergreenDrink': 'Smoothies',
     'EvergreenLive': 'Convention',
 
+    'RegularMission': 'Visitor Chest',
+    'BetterMission': 'Tourist Chest',
+    'BestMission': 'VIP Chest',
+
     'MAN001': 'P.K. Soda',
     'MAN002': 'Bali Suta',
     'MAN003': 'Greta Greenberg',

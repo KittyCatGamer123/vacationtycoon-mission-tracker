@@ -99,12 +99,19 @@ function ScriptedTypeToText(Input)
 
   const ScriptedData = RewardsFile.Rewards.find(Rewards => Rewards.Id === Input);
   const RewardType = ScriptedData.Type;
-  var RewardId = ScriptedData.RewardId;
+  const RewardId = ScriptedData.RewardId;
   const RewardAmount = ScriptedData.Value;
 
-  if (RewardType == "Manager") { var ManTrue = "×"; }
-  else { var ManTrue = ""; }
-  Result = ManTrue + Powers(RewardAmount) + " " + ConvertToReadable(RewardId);
+  if (RewardType != "Gacha")
+  {
+    if (RewardType == "Manager") { var ManTrue = "×"; }
+    else { var ManTrue = ""; }
+    Result = ManTrue + Powers(RewardAmount) + " " + ConvertToReadable(RewardId);
+  }
+  else
+  {
+    Result = GachaReader(RewardId);
+  }
 
   return Result;
 }

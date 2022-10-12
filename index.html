@@ -7,10 +7,20 @@
     <script src="Powers.js"></script>
     <script src="Readability.js"></script>
     <script src="MissionTable.js"></script>
+    <script src="GachaData.js"></script>
 </head>
 
-<body onLoad="UpdateTable(1);">
+<body onLoad="UpdateTable(1); CopiesToTokens();">
     <h1>Primary Resort</h1>
+
+    <h2>Manager Copies</h2>
+    <p>When you reach the maximum copies for a card, you will recieve tokens as a compremise for the excess copies you own.</p>
+    <ul>
+        <li id="tokensforcard_Common">Tokens for Common</li>
+        <li id="tokensforcard_Rare">Tokens for Rare</li>
+        <li id="tokensforcard_Epic">Tokens for Common</li>
+        <li id="tokensforcard_Legendary">Tokens for Legend</li>
+    </ul> 
 
     <h2 id="mission_rank">Season Missions <span style="color:#a7a7a7;">(Season 1)</span></h2>
     <button class="season_advance" onclick="console.clear(); UpdateTable(CurrentRank - 1);">Previous Season</button>
