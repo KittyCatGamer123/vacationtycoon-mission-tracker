@@ -1,3 +1,4 @@
+const MAXRANK = 50; // UPDATE THIS EVERY UPDATE MANUALLY!!
 let CurrentRank = 1;
 
 var request = new XMLHttpRequest();
@@ -12,11 +13,16 @@ const RewardsFile = JSON.parse(request.responseText);
 
 function UpdateTable(Rank)
 {
+    Rank = Math.max(Rank, 1);
+    Rank = Math.min(Rank, MAXRANK);
+
     const tbl = document.getElementById("mission_table");
     const tblBody = document.createElement("tbody");
+    while (tbl.children.length > 1) tbl.removeChild(tbl.lastChild);
 
     const TitleEdit = document.getElementById("mission_rank");
     TitleEdit.innerHTML = 'Season Missions <span style="color:#a7a7a7;">(Season ' + Rank + ')</span>';
+    CurrentRank = Rank;
 
     const MissionData = BalanceFile.Missions.filter(Missions => Missions.Rank === Rank);
 
@@ -29,12 +35,7 @@ function UpdateTable(Rank)
     
         for (let j = 0; j < 3; j++) 
         {
-          // Create a <td> element and a text node, make the text
-          // node the contents of the <td>, and put the <td> at
-          // the end of the table row
           const cell = document.createElement("td");
-
-          // Insert Text Here
           var cellText = document.createTextNode(`Missing Data`);
 
           if (j == 0) { cellText = document.createTextNode(i + 1); }
@@ -50,14 +51,11 @@ function UpdateTable(Rank)
           cell.appendChild(cellText);
           row.appendChild(cell);
         }
-    
-        // add the row to the end of the table body
+
         tblBody.appendChild(row);
     }
     
-      // put the <tbody> in the <table>
     tbl.appendChild(tblBody);
-    // appends <table> into <body>
     document.body.appendChild(tbl);
 }
 
@@ -69,18 +67,29 @@ function ReadableTextConvert(MissionIndex)
   Result += String(ConvertToReadable(ConditionType)) + " ";
 
   const ConditionID = MissionIndex.Condition.ConditionId;
-  if (ConditionID != "any") 
+  if (ConditionID != "any" && ConditionID != "all")
   { 
     const atText = ConditionType == "CustomersSinceSubscription" ? ' at ' : '';
     Result += atText + String(ConvertToReadable(ConditionID)) + " ";
   }
+  else if (ConditionID == "all") { Result += "All Businesses "; }
+  else if (ConditionType == "ConsumablesUsedSinceSubscription" && ConditionID == "any") { Result += "Any Boost "; }
+  else if (ConditionType == "ManagersUpgradedSinceSubscription" && ConditionID == "any") 
+  { Result += "Managers "; }
+  else if (ConditionType == "ManagersUpgradedSinceSubscription" && ConditionID != "any") 
+  { Result += String(ConvertToReadable(ConditionID)) + " "; }
 
   const Threshold = MissionIndex.Condition.Threshold;
-  if (Threshold != -1) 
+  if (Threshold != -1 && ConditionType != "ManagerRankReached") 
   { 
     Result += "(" + String(Powers(Threshold)) + ")"; 
   }
+  else if (ConditionType == "ManagerRankReached")
+  {
+    Result += "to Level " + String(Powers(Threshold)); 
+  }
 
+  console.log(ConditionType, ConditionID, Threshold);
   return Result;
 }
 

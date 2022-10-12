@@ -14,15 +14,15 @@ function ConvertToReadable(Type)
     'AllGeneratorLevels': 'Upgrade Businesses',
     'CustomersSinceSubscription': 'Serve Customers',
     'ActivateManagerPowerSinceSubscription': 'Use Manager Abilites',
-    'AutomateSpecificGenerator': 'Automate Generator', // TODO: Figure out what this means
+    'AutomateSpecificGenerator': 'Automate',
     'GeneratorMaxed': 'Max',
 
     'ActivateSecondaryStationSinceSubscription': 'Upgrade Kiosk',
 
     'ManagerCardsEarnedSinceSubscription': 'Collect Cards',
     'CardsSpentSinceSubscription': 'Use Manager Cards',
-    'ManagerRankReached': 'Level Manager', // TODO: Figure out what this means also
-    'ManagersUpgradedSinceSubscription': 'Promote Managers',
+    'ManagerRankReached': 'Promote',
+    'ManagersUpgradedSinceSubscription': 'Promote', // "Managers" is added on afters if ConditionID is Any
 
     'AdsWatched': 'Watch Ads',
     'AirdropsClaimedSinceSubscription': 'Claim Special Deliveries',
@@ -33,6 +33,7 @@ function ConvertToReadable(Type)
     'EvergreenSpa': 'Spa',
     'EvergreenTours': 'Tours',
     'EvergreenEntertainment': 'Theme Park',
+    'EvergreenWater': 'Water Park',
     'EvergreenFitness': 'Gym',
     'EvergreenDrink': 'Smoothies',
     'EvergreenLive': 'Convention',

@@ -9,10 +9,12 @@
     <script src="MissionTable.js"></script>
 </head>
 
-<body onLoad="UpdateTable(1);">
+<body onLoad="UpdateTable(50);">
     <h1>Primary Resort</h1>
 
     <h2 id="mission_rank">Season Missions <span style="color:#a7a7a7;">(Season 1)</span></h2>
+    <button onclick="console.clear(); UpdateTable(CurrentRank - 1);">Previous Season</button>
+    <button onclick="console.clear(); UpdateTable(CurrentRank + 1);">Next Season</button>
     <table id="mission_table">
         <tr>
             <th>#</th>
