@@ -2,19 +2,20 @@
 <html lang="en">
 
 <head>
-    <title>Vacation Tycoon Balancing and Data</title>
+    <title>Vacation Tycoon Balancing and Data Tracker</title>
     <link rel="stylesheet" href="stylesheet.css">
     <script src="Powers.js"></script>
     <script src="Readability.js"></script>
     <script src="MissionTable.js"></script>
 </head>
 
-<body onLoad="UpdateTable(50);">
+<body onLoad="UpdateTable(1);">
     <h1>Primary Resort</h1>
 
     <h2 id="mission_rank">Season Missions <span style="color:#a7a7a7;">(Season 1)</span></h2>
-    <button onclick="console.clear(); UpdateTable(CurrentRank - 1);">Previous Season</button>
-    <button onclick="console.clear(); UpdateTable(CurrentRank + 1);">Next Season</button>
+    <button class="season_advance" onclick="console.clear(); UpdateTable(CurrentRank - 1);">Previous Season</button>
+    <button class="season_advance" onclick="AdvanceToRank();">Advance to Season #</button>    
+    <button class="season_advance" onclick="console.clear(); UpdateTable(CurrentRank + 1);">Next Season</button>
     <table id="mission_table">
         <tr>
             <th>#</th>

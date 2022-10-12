@@ -13,50 +13,50 @@ const RewardsFile = JSON.parse(request.responseText);
 
 function UpdateTable(Rank)
 {
-    Rank = Math.max(Rank, 1);
-    Rank = Math.min(Rank, MAXRANK);
+  if (isNaN(Rank)) { Rank = 1; }
+  else { Rank = Math.max(Rank, 1); Rank = Math.min(Rank, MAXRANK); }
+  
+  const tbl = document.getElementById("mission_table");
+  const tblBody = document.createElement("tbody");
+  while (tbl.children.length > 1) tbl.removeChild(tbl.lastChild);
 
-    const tbl = document.getElementById("mission_table");
-    const tblBody = document.createElement("tbody");
-    while (tbl.children.length > 1) tbl.removeChild(tbl.lastChild);
+  const TitleEdit = document.getElementById("mission_rank");
+  TitleEdit.innerHTML = 'Season Missions <span style="color:#a7a7a7;">(Season ' + Rank + ')</span>';
+  CurrentRank = Rank;
 
-    const TitleEdit = document.getElementById("mission_rank");
-    TitleEdit.innerHTML = 'Season Missions <span style="color:#a7a7a7;">(Season ' + Rank + ')</span>';
-    CurrentRank = Rank;
+  const MissionData = BalanceFile.Missions.filter(Missions => Missions.Rank === Rank);
 
-    const MissionData = BalanceFile.Missions.filter(Missions => Missions.Rank === Rank);
+  // i: Column
+  // j: Row
 
-    // i: Column
-    // j: Row
-
-    for (let i = 0; i < MissionData.length; i++) 
+  for (let i = 0; i < MissionData.length; i++) 
+  {
+    const row = document.createElement("tr");
+    
+    for (let j = 0; j < 3; j++) 
     {
-        const row = document.createElement("tr");
-    
-        for (let j = 0; j < 3; j++) 
-        {
-          const cell = document.createElement("td");
-          var cellText = document.createTextNode(`Missing Data`);
+      const cell = document.createElement("td");
+      var cellText = document.createTextNode(`Missing Data`);
 
-          if (j == 0) { cellText = document.createTextNode(i + 1); }
-          else if (j == 1)
-          {
-            cellText = document.createTextNode(ReadableTextConvert(MissionData[i]));
-          }
-          else if (j == 2)
-          {
-            cellText = document.createTextNode(ScriptedTypeToText(MissionData[i].RewardId));
-          }
+      if (j == 0) { cellText = document.createTextNode(i + 1); }
+      else if (j == 1)
+      {
+        cellText = document.createTextNode(ReadableTextConvert(MissionData[i]));
+      }
+      else if (j == 2)
+      {
+        cellText = document.createTextNode(ScriptedTypeToText(MissionData[i].RewardId));
+      }
 
-          cell.appendChild(cellText);
-          row.appendChild(cell);
-        }
-
-        tblBody.appendChild(row);
+      cell.appendChild(cellText);
+      row.appendChild(cell);
     }
+
+    tblBody.appendChild(row);
+  }
     
-    tbl.appendChild(tblBody);
-    document.body.appendChild(tbl);
+  tbl.appendChild(tblBody);
+  document.body.appendChild(tbl);
 }
 
 function ReadableTextConvert(MissionIndex)
@@ -107,4 +107,11 @@ function ScriptedTypeToText(Input)
   Result = ManTrue + Powers(RewardAmount) + " " + ConvertToReadable(RewardId);
 
   return Result;
+}
+
+function AdvanceToRank()
+{
+  let ToRank = prompt("Please enter the Season to navigate to.");
+  console.clear();
+  UpdateTable(ToRank);
 }
