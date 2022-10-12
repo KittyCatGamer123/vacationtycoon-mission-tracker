@@ -1,3 +1,15 @@
+let CurrentRank = 1;
+
+var request = new XMLHttpRequest();
+request.open("GET", "../../balance/ResortBalance.json", false);
+request.send(null)
+const BalanceFile = JSON.parse(request.responseText);
+
+request = new XMLHttpRequest();
+request.open("GET", "../../balance/RewardsBalance.json", false);
+request.send(null)
+const RewardsFile = JSON.parse(request.responseText);
+
 function UpdateTable(Rank)
 {
     const tbl = document.getElementById("mission_table");
@@ -6,7 +18,7 @@ function UpdateTable(Rank)
     const TitleEdit = document.getElementById("mission_rank");
     TitleEdit.innerHTML = 'Season Missions <span style="color:#a7a7a7;">(Season ' + Rank + ')</span>';
 
-    const MissionData = Missions.filter(Missions => Missions.Rank === Rank);
+    const MissionData = BalanceFile.Missions.filter(Missions => Missions.Rank === Rank);
 
     // i: Column
     // j: Row
@@ -76,7 +88,7 @@ function ScriptedTypeToText(Input)
 {
   var Result = "";
 
-  const ScriptedData = Rewards.find(Rewards => Rewards.Id === Input);
+  const ScriptedData = RewardsFile.Rewards.find(Rewards => Rewards.Id === Input);
   const RewardType = ScriptedData.Type;
   var RewardId = ScriptedData.RewardId;
   const RewardAmount = ScriptedData.Value;
