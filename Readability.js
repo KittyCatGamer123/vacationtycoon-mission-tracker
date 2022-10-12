@@ -41,6 +41,10 @@ function ConvertToReadable(Type)
     'RegularMission': 'Visitor Chest',
     'BetterMission': 'Tourist Chest',
     'BestMission': 'VIP Chest',
+    'RankUp': 'Rank Up Chest',
+    'BasicStore': 'Business Box',
+    'EpicStore': 'Kiosk Box',
+    'LegendaryStore': 'Resort Box',
 
     'MAN001': 'P.K. Soda',
     'MAN002': 'Bali Suta',

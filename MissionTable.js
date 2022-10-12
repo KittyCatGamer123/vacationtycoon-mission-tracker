@@ -20,11 +20,11 @@ function UpdateTable(Rank)
   const tblBody = document.createElement("tbody");
   while (tbl.children.length > 1) tbl.removeChild(tbl.lastChild);
 
+  const MissionData = BalanceFile.Missions.filter(Missions => Missions.Rank === Rank);
+
   const TitleEdit = document.getElementById("mission_rank");
   TitleEdit.innerHTML = 'Season Missions <span style="color:#a7a7a7;">(Season ' + Rank + ')</span>';
   CurrentRank = Rank;
-
-  const MissionData = BalanceFile.Missions.filter(Missions => Missions.Rank === Rank);
 
   // i: Column
   // j: Row
