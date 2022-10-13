@@ -95,8 +95,6 @@ function ReadableTextConvert(MissionIndex)
 
 function ScriptedTypeToText(Input)
 {
-  var Result = "";
-
   const ScriptedData = RewardsFile.Rewards.find(Rewards => Rewards.Id === Input);
   const RewardType = ScriptedData.Type;
   const RewardId = ScriptedData.RewardId;
@@ -106,19 +104,18 @@ function ScriptedTypeToText(Input)
   {
     if (RewardType == "Manager") { var ManTrue = "×"; }
     else { var ManTrue = ""; }
-    Result = ManTrue + Powers(RewardAmount) + " " + ConvertToReadable(RewardId);
+    return ManTrue + Powers(RewardAmount) + " " + ConvertToReadable(RewardId);
   }
   else
   {
-    Result = GachaReader(RewardId);
+    return GachaReader(RewardId);
   }
-
-  return Result;
 }
 
 function AdvanceToRank()
 {
   let ToRank = prompt("Please enter the Season to navigate to.");
   console.clear();
-  UpdateTable(ToRank);
+
+  if (!isNaN(ToRank) && ToRank != " ") { UpdateTable(ToRank); }
 }

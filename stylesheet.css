@@ -75,3 +75,8 @@ tr:nth-child(odd)
     background-color: rgb(100, 100, 100); /* Green */
     color: white;
 }
+
+.gacha_popup_btn
+{
+    cursor: pointer;
+}

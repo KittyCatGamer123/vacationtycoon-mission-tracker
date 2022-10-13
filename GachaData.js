@@ -7,8 +7,13 @@ function GachaReader(GachaID)
     const Content1 = BoxContent[0];
     const Content2 = BoxContent[1];
     const Content3 = BoxContent[2];
+
+    const BoxPoolMan = (RewardsFile.GachaPoolGroups.find(Pool => Pool.Id === Content1)).GachaPools[0].Id;
+    const GachaContents = (RewardsFile.GachaPools.find(Pool => Pool.Id === BoxPoolMan)).WeightedRewards;
+    const IsScripted = (GachaContents.length == 1);
+    console.log("Reward Scripted: ", IsScripted)
     
-    var Result = BoxType + " (":
+    var Result = BoxType + " (";
     
     if (typeof Content1 != "undefined") { Result += Content1; Result += " "; }
     if (typeof Content2 != "undefined") { Result += Content2; Result += " "; }
