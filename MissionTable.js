@@ -1,6 +1,3 @@
-const MAXRANK = 50; // UPDATE THIS EVERY UPDATE MANUALLY!!
-let CurrentRank = 1;
-
 var request = new XMLHttpRequest();
 request.open("GET", "../../balance/ResortBalance.json", false);
 request.send(null)
@@ -10,6 +7,9 @@ request = new XMLHttpRequest();
 request.open("GET", "../../balance/RewardsBalance.json", false);
 request.send(null)
 const RewardsFile = JSON.parse(request.responseText);
+
+const MAXRANK = BalanceFile.MiscBalance.CurrentMaxRank;
+let CurrentRank = 1;
 
 function UpdateTable(Rank)
 {
