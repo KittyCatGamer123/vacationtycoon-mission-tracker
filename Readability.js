@@ -1,3 +1,10 @@
+function RunAllScripts()
+{
+  UpdateTable(1); 
+  UpdateBusinessTable(1);
+  CopiesToTokens();
+}
+
 function ConvertToReadable(Type)
 {
   const TypeMap =
@@ -28,6 +35,7 @@ function ConvertToReadable(Type)
     'AirdropsClaimedSinceSubscription': 'Claim Special Deliveries',
     'ConsumablesUsedSinceSubscription': 'Use', // E.g. "Use 3 Instant Profits" or "Use 3 Any Boosts"
 
+    'EvergreenBoat': 'Boat',
     'EvergreenHotel': 'Hotel',
     'EvergreenRestaurant': 'Resturant',
     'EvergreenSpa': 'Spa',

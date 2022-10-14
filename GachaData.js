@@ -11,16 +11,9 @@ function GachaReader(GachaID)
     const BoxPoolMan = (RewardsFile.GachaPoolGroups.find(Pool => Pool.Id === Content1)).GachaPools[0].Id;
     const GachaContents = (RewardsFile.GachaPools.find(Pool => Pool.Id === BoxPoolMan)).WeightedRewards;
     const IsScripted = (GachaContents.length == 1);
-    console.log("Reward Scripted: ", IsScripted)
-    
-    var Result = BoxType + " (";
-    
-    if (typeof Content1 != "undefined") { Result += Content1; Result += " "; }
-    if (typeof Content2 != "undefined") { Result += Content2; Result += " "; }
-    if (typeof Content3 != "undefined") { Result += Content3; Result += " "; }
-    Result += ")";
+    console.log(GachaContents)
 
-    return Result;
+    if (IsScripted) { return BoxType + " (Scripted)"; } else { return BoxType; }
 }
 
 function CopiesToTokens()

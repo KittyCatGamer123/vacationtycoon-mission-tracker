@@ -10,7 +10,7 @@
     <script src="GachaData.js"></script>
 </head>
 
-<body onLoad="UpdateTable(1); CopiesToTokens();">
+<body onLoad="RunAllScripts();">
     <h1>Primary Resort</h1>
 
     <h2>Manager Copies</h2>
@@ -22,10 +22,21 @@
         <li id="tokensforcard_Legendary">Tokens for Legend</li>
     </ul> 
 
-    <h2 id="mission_rank">Season Missions <span style="color:#a7a7a7;">(Season 1)</span></h2>
+    <h2 id="mission_rank">Season Features <span style="color:#a7a7a7;">(Season 1)</span></h2>
     <button class="season_advance" onclick="console.clear(); UpdateTable(CurrentRank - 1);">Previous Season</button>
     <button class="season_advance" onclick="AdvanceToRank();">Advance to Season #</button>    
     <button class="season_advance" onclick="console.clear(); UpdateTable(CurrentRank + 1);">Next Season</button>
+
+    <table id="BusinessTable">
+        <tr>
+            <th>Business</th>
+            <th>Opening Cost</th>
+            <th>Primary Manager</th>
+            <th>Kiosk Manager</th>
+            <th>Max Level</th>
+        </tr>
+    </table>
+
     <table id="mission_table">
         <tr>
             <th>#</th>

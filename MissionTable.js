@@ -21,22 +21,22 @@ function UpdateTable(Rank)
   while (tbl.children.length > 1) tbl.removeChild(tbl.lastChild);
 
   const MissionData = BalanceFile.Missions.filter(Missions => Missions.Rank === Rank);
+  const MissionCount = MissionData.length;
 
-  const TitleEdit = document.getElementById("mission_rank");
-  TitleEdit.innerHTML = 'Season Missions <span style="color:#a7a7a7;">(Season ' + Rank + ')</span>';
+  document.getElementById("mission_rank").innerHTML = 'Season Features <span style="color:#a7a7a7;">(Season ' + Rank + ')</span>';
   CurrentRank = Rank;
 
   // i: Column
   // j: Row
 
-  for (let i = 0; i < MissionData.length; i++) 
+  for (let i = 0; i < MissionCount; i++) 
   {
     const row = document.createElement("tr");
     
     for (let j = 0; j < 3; j++) 
     {
       const cell = document.createElement("td");
-      var cellText = document.createTextNode(`Missing Data`);
+      let cellText = document.createTextNode(`Missing Data`);
 
       if (j == 0) { cellText = document.createTextNode(i + 1); }
       else if (j == 1)
@@ -61,7 +61,7 @@ function UpdateTable(Rank)
 
 function ReadableTextConvert(MissionIndex)
 {
-  var Result = "";
+  let Result = "";
 
   const ConditionType = MissionIndex.Condition.ConditionType;
   Result += String(ConvertToReadable(ConditionType)) + " ";
@@ -80,7 +80,7 @@ function ReadableTextConvert(MissionIndex)
   { Result += String(ConvertToReadable(ConditionID)) + " "; }
 
   const Threshold = MissionIndex.Condition.Threshold;
-  if (Threshold != -1 && ConditionType != "ManagerRankReached") 
+  if (Threshold != -1 && ConditionType != "ManagerRankReached" && ConditionType != "GeneratorFirstPurchase") 
   { 
     Result += "(" + String(Powers(Threshold)) + ")"; 
   }
@@ -117,5 +117,42 @@ function AdvanceToRank()
   let ToRank = prompt("Please enter the Season to navigate to.");
   console.clear();
 
-  if (!isNaN(ToRank) && ToRank != " ") { UpdateTable(ToRank); }
+  if (!isNaN(ToRank) && ToRank != " ") { UpdateTable(ToRank); UpdateBusinessTable(ToRank); }
+}
+
+function UpdateBusinessTable(Rank)
+{
+  if (isNaN(Rank)) { Rank = 1; }
+  else { Rank = Math.max(Rank, 1); Rank = Math.min(Rank, MAXRANK); }
+
+  const ActiveBusinesses = (BalanceFile.Ranks.filter(Buisness => Buisness.Rank === Rank))[0].GeneratorSlots;
+  let BusinessList = [];
+
+  for (i = 0; i < ActiveBusinesses.length; i++)
+  {
+      if (ActiveBusinesses[i].GeneratorCap != 0)
+      {
+          BusinessList[i] = ActiveBusinesses[i].GeneratorId;
+      }
+  }
+
+  const BusinessTable = document.getElementById('BusinessTable');
+  const TableBody = document.createElement("tbody");
+  while (BusinessTable.children.length > 1) BusinessTable.removeChild(BusinessTable.lastChild);
+
+  for (j = 0; j < BusinessList.length; j++)
+  {
+    const buisRow = document.createElement("tr");
+
+    for (k = 0; k < 5; k++)
+    {
+      const buisCell = document.createElement("td");
+      var cellText = document.createTextNode(`Missing Data`);
+
+      buisCell.appendChild(cellText);
+      buisRow.appendChild(buisCell);
+    }
+
+    TableBody.appendChild(buisRow);
+  }
 }
