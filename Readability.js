@@ -1,7 +1,7 @@
 function RunAllScripts()
 {
-  UpdateTable(1); 
   UpdateBusinessTable(1);
+  UpdateTable(1); 
   CopiesToTokens();
 }
 

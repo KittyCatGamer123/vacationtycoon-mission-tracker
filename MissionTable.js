@@ -24,6 +24,7 @@ function UpdateTable(Rank)
   const MissionCount = MissionData.length;
 
   document.getElementById("mission_rank").innerHTML = 'Season Features <span style="color:#a7a7a7;">(Season ' + Rank + ')</span>';
+  UpdateBusinessTable(Rank);
   CurrentRank = Rank;
 
   // i: Column
@@ -117,7 +118,7 @@ function AdvanceToRank()
   let ToRank = prompt("Please enter the Season to navigate to.");
   console.clear();
 
-  if (!isNaN(ToRank) && ToRank != " ") { UpdateTable(ToRank); UpdateBusinessTable(ToRank); }
+  if (!isNaN(ToRank) && ToRank != " ") { UpdateTable(ToRank); }
 }
 
 function UpdateBusinessTable(Rank)
@@ -149,10 +150,47 @@ function UpdateBusinessTable(Rank)
       const buisCell = document.createElement("td");
       var cellText = document.createTextNode(`Missing Data`);
 
+      if (k == 0)
+      {
+        cellText = document.createTextNode(ConvertToReadable(BusinessList[j]));
+      }
+      else if (k == 1)
+      {
+        cellText = document.createTextNode(Powers(ActiveBusinesses[j].OpeningCost));
+      }
+      else if (k == 2)
+      {
+        try
+        {
+          cellText = document.createTextNode(ConvertToReadable(ActiveBusinesses[j].Automation.ManagerId))
+        }
+        catch (_exception) { cellText = document.createTextNode("None"); }
+      }
+      else if (k == 3)
+      {
+        let KioskMan = ActiveBusinesses[j].SecondaryStationManagerId;
+
+        if (KioskMan != undefined)
+        {
+          cellText = document.createTextNode(ConvertToReadable(ActiveBusinesses[j].SecondaryStationManagerId))
+        }
+        else
+        {
+          cellText = document.createTextNode("None");
+        }
+      }
+      else if (k == 4)
+      {
+        cellText = document.createTextNode(Powers(ActiveBusinesses[j].GeneratorCap));
+      }
+
       buisCell.appendChild(cellText);
       buisRow.appendChild(buisCell);
     }
 
     TableBody.appendChild(buisRow);
   }
+
+  BusinessTable.appendChild(TableBody);
+  document.body.appendChild(BusinessTable);
 }

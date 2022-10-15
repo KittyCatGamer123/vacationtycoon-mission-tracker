@@ -41,7 +41,9 @@ table
 {
     border-collapse: collapse;
     width: 75%;
+    margin-top: 15px;
     margin-left: 20px;
+    margin-bottom: 15px;
 }
   
 td, th 
@@ -72,8 +74,21 @@ tr:nth-child(odd)
 
 .season_advance:hover 
 {
-    background-color: rgb(100, 100, 100); /* Green */
+    background-color: rgb(100, 100, 100);
     color: white;
+}
+
+#footer-block
+{
+    margin-top: 80px;
+    padding: 1.2em 0;
+    background: #222;
+    color: #fff;
+    bottom: 0;
+    margin-left: -8px;
+    margin-right: -8px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 0.95em;
 }
 
 .gacha_popup_btn
