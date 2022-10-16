@@ -20,7 +20,8 @@ function UpdateTable(Rank)
   const tblBody = document.createElement("tbody");
   while (tbl.children.length > 1) tbl.removeChild(tbl.lastChild);
 
-  const MissionData = BalanceFile.Missions.filter(Missions => Missions.Rank === Rank);
+  const MissionData = OrderRankData(Rank);
+  console.log(MissionData)
   const MissionCount = MissionData.length;
 
   document.getElementById("mission_rank").innerHTML = 'Season Features <span style="color:#a7a7a7;">(Season ' + Rank + ')</span>';
@@ -42,11 +43,11 @@ function UpdateTable(Rank)
       if (j == 0) { cellText = document.createTextNode(i + 1); }
       else if (j == 1)
       {
-        cellText = document.createTextNode(ReadableTextConvert(MissionData[i]));
+        cellText = document.createTextNode(ReadableTextConvert(MissionData[i][0]));
       }
       else if (j == 2)
       {
-        cellText = document.createTextNode(ScriptedTypeToText(MissionData[i].RewardId));
+        cellText = document.createTextNode(ScriptedTypeToText(MissionData[i][0].RewardId));
       }
 
       cell.appendChild(cellText);
@@ -58,6 +59,45 @@ function UpdateTable(Rank)
     
   tbl.appendChild(tblBody);
   document.body.appendChild(tbl);
+}
+
+function OrderRankData(InputRank)
+{
+  let Data = BalanceFile.Missions.filter(Missions => Missions.Rank === InputRank);
+  InputRank = (InputRank < 10) ? "00" + InputRank : InputRank;
+
+  let T0 = [];
+  let T1 = [];
+  let T2 = [];
+
+  for (i = 0; i < Data.length; i++)
+  {
+    let MissionID = Data[i].Id;
+    let T = MissionID.substring(MissionID.indexOf("T") + 1);
+    T = T.substring(0, T.indexOf("M"))
+
+    let Filter = Data.filter(Missions => Missions.Id === MissionID)
+
+    if (T == "0") { T0.push(Filter); }
+    else if (T == "1") { T1.push(Filter); }
+    else if (T == "2") { T2.push(Filter); }
+  }
+
+  let SortedData = [ ];
+
+  for (j = 0; SortedData.length < Data.length; j++)
+  {
+    let T0bool = (T0[j] != undefined);
+    if (T0bool) { SortedData.push(T0[j]) }
+
+    let T1bool = (T1[j] != undefined);
+    if (T1bool) { SortedData.push(T1[j]) }
+
+    let T2bool = (T2[j] != undefined);
+    if (T2bool) { SortedData.push(T2[j]) }
+  }
+
+  return SortedData;
 }
 
 function ReadableTextConvert(MissionIndex)
