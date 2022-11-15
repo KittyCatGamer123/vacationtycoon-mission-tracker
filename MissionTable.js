@@ -4,7 +4,7 @@ request.send(null)
 const BalanceFile = JSON.parse(request.responseText);
 
 request = new XMLHttpRequest();
-request.open("GET", "../../balance/RewardsBalance.json", false);
+request.open("GET", "../../balance/CommonBalance.json", false);
 request.send(null)
 const RewardsFile = JSON.parse(request.responseText);
 
@@ -85,7 +85,7 @@ function OrderRankData(InputRank)
 
   let SortedData = [ ];
 
-  for (j = 0; SortedData.length < Data.length; j++)
+  for (j = 0; j < Data.length; j++)
   {
     let T0bool = (T0[j] != undefined);
     if (T0bool) { SortedData.push(T0[j]) }
