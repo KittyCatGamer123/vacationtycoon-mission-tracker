@@ -72,2809 +72,4426 @@
   "Gacha": [
     {
       "Id": "regular_rank2",
-      "GachaPoolGroupIds": [ "regular_manager_rank2", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank2",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank3",
-      "GachaPoolGroupIds": [ "regular_manager_rank3", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank3",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank4",
-      "GachaPoolGroupIds": [ "regular_manager_rank4", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank4",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank5",
-      "GachaPoolGroupIds": [ "regular_manager_rank5", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank5",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank6",
-      "GachaPoolGroupIds": [ "regular_manager_rank6", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank6",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank7",
-      "GachaPoolGroupIds": [ "regular_manager_rank7", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank7",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank8",
-      "GachaPoolGroupIds": [ "regular_manager_rank8", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank8",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank9",
-      "GachaPoolGroupIds": [ "regular_manager_rank9", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank9",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank10",
-      "GachaPoolGroupIds": [ "regular_manager_rank10", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank10",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank11",
-      "GachaPoolGroupIds": [ "regular_manager_rank11", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank11",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank12",
-      "GachaPoolGroupIds": [ "regular_manager_rank12", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank12",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank13",
-      "GachaPoolGroupIds": [ "regular_manager_rank13", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank13",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank14",
-      "GachaPoolGroupIds": [ "regular_manager_rank14", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank14",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_rank15",
-      "GachaPoolGroupIds": [ "regular_manager_rank15", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank15",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_standard",
-      "GachaPoolGroupIds": [ "regular_manager_any", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_any",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank2",
-      "GachaPoolGroupIds": [ "regular_manager_rank2", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank2",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank3",
-      "GachaPoolGroupIds": [ "regular_manager_rank3", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank3",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank4",
-      "GachaPoolGroupIds": [ "regular_manager_rank4", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank4",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank5",
-      "GachaPoolGroupIds": [ "regular_manager_rank5", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank5",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank6",
-      "GachaPoolGroupIds": [ "regular_manager_rank6", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank6",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank7",
-      "GachaPoolGroupIds": [ "regular_manager_rank7", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank7",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank8",
-      "GachaPoolGroupIds": [ "regular_manager_rank8", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank8",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank9",
-      "GachaPoolGroupIds": [ "regular_manager_rank9", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank9",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank10",
-      "GachaPoolGroupIds": [ "regular_manager_rank10", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank10",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank11",
-      "GachaPoolGroupIds": [ "regular_manager_rank11", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank11",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank12",
-      "GachaPoolGroupIds": [ "regular_manager_rank12", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank12",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank13",
-      "GachaPoolGroupIds": [ "regular_manager_rank13", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank13",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank14",
-      "GachaPoolGroupIds": [ "regular_manager_rank14", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank14",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_rank15",
-      "GachaPoolGroupIds": [ "regular_manager_rank15", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_rank15",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "regular_consumable_standard",
-      "GachaPoolGroupIds": [ "regular_manager_any", "regular_secondary", "regular_consumable" ],
+      "GachaPoolGroupIds": [
+        "regular_manager_any",
+        "regular_secondary",
+        "regular_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "good_rank7",
-      "GachaPoolGroupIds": [ "good_manager_rank7", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank7",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_rank8",
-      "GachaPoolGroupIds": [ "good_manager_rank8", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank8",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_rank9",
-      "GachaPoolGroupIds": [ "good_manager_rank9", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank9",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_rank10",
-      "GachaPoolGroupIds": [ "good_manager_rank10", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank10",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_rank11",
-      "GachaPoolGroupIds": [ "good_manager_rank11", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank11",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_rank12",
-      "GachaPoolGroupIds": [ "good_manager_rank12", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank12",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_rank13",
-      "GachaPoolGroupIds": [ "good_manager_rank13", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank13",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_rank14",
-      "GachaPoolGroupIds": [ "good_manager_rank14", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank14",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_rank15",
-      "GachaPoolGroupIds": [ "good_manager_rank15", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank15",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_standard",
-      "GachaPoolGroupIds": [ "good_manager_any", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "good_manager_any",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_rank7",
-      "GachaPoolGroupIds": [ "good_manager_rank7", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank7",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_rank8",
-      "GachaPoolGroupIds": [ "good_manager_rank8", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank8",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_rank9",
-      "GachaPoolGroupIds": [ "good_manager_rank9", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank9",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_rank10",
-      "GachaPoolGroupIds": [ "good_manager_rank10", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank10",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_rank11",
-      "GachaPoolGroupIds": [ "good_manager_rank11", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank11",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_rank12",
-      "GachaPoolGroupIds": [ "good_manager_rank12", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank12",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_rank13",
-      "GachaPoolGroupIds": [ "good_manager_rank13", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank13",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_rank14",
-      "GachaPoolGroupIds": [ "good_manager_rank14", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank14",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_rank15",
-      "GachaPoolGroupIds": [ "good_manager_rank15", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank15",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_premium_standard",
-      "GachaPoolGroupIds": [ "good_manager_any", "good_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "good_manager_any",
+        "good_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_rank7",
-      "GachaPoolGroupIds": [ "good_manager_rank7", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank7",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_rank8",
-      "GachaPoolGroupIds": [ "good_manager_rank8", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank8",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_rank9",
-      "GachaPoolGroupIds": [ "good_manager_rank9", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank9",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_rank10",
-      "GachaPoolGroupIds": [ "good_manager_rank10", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank10",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_rank11",
-      "GachaPoolGroupIds": [ "good_manager_rank11", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank11",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_rank12",
-      "GachaPoolGroupIds": [ "good_manager_rank12", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank12",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_rank13",
-      "GachaPoolGroupIds": [ "good_manager_rank13", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank13",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_rank14",
-      "GachaPoolGroupIds": [ "good_manager_rank14", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank14",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_rank15",
-      "GachaPoolGroupIds": [ "good_manager_rank15", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_rank15",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "good_consumable_standard",
-      "GachaPoolGroupIds": [ "good_manager_any", "good_secondary", "good_consumable" ],
+      "GachaPoolGroupIds": [
+        "good_manager_any",
+        "good_secondary",
+        "good_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "better_premium_rank7",
-      "GachaPoolGroupIds": [ "better_manager_rank7", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank7",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_premium_rank8",
-      "GachaPoolGroupIds": [ "better_manager_rank8", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank8",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_premium_rank9",
-      "GachaPoolGroupIds": [ "better_manager_rank9", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank9",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_premium_rank10",
-      "GachaPoolGroupIds": [ "better_manager_rank10", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank10",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_premium_rank11",
-      "GachaPoolGroupIds": [ "better_manager_rank11", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank11",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_premium_rank12",
-      "GachaPoolGroupIds": [ "better_manager_rank12", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank12",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_premium_rank13",
-      "GachaPoolGroupIds": [ "better_manager_rank13", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank13",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_premium_rank14",
-      "GachaPoolGroupIds": [ "better_manager_rank14", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank14",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_premium_rank15",
-      "GachaPoolGroupIds": [ "better_manager_rank15", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank15",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_premium_standard",
-      "GachaPoolGroupIds": [ "better_manager_any", "better_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "better_manager_any",
+        "better_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_rank7",
-      "GachaPoolGroupIds": [ "better_manager_rank7", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank7",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_rank8",
-      "GachaPoolGroupIds": [ "better_manager_rank8", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank8",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_rank9",
-      "GachaPoolGroupIds": [ "better_manager_rank9", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank9",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_rank10",
-      "GachaPoolGroupIds": [ "better_manager_rank10", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank10",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_rank11",
-      "GachaPoolGroupIds": [ "better_manager_rank11", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank11",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_rank12",
-      "GachaPoolGroupIds": [ "better_manager_rank12", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank12",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_rank13",
-      "GachaPoolGroupIds": [ "better_manager_rank13", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank13",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_rank14",
-      "GachaPoolGroupIds": [ "better_manager_rank14", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank14",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_rank15",
-      "GachaPoolGroupIds": [ "better_manager_rank15", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_rank15",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "better_consumable_standard",
-      "GachaPoolGroupIds": [ "better_manager_any", "better_secondary", "better_consumable" ],
+      "GachaPoolGroupIds": [
+        "better_manager_any",
+        "better_secondary",
+        "better_consumable"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "rankup_rank2",
-      "GachaPoolGroupIds": [ "guaranteed_cucumber_3", "rankup_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_cucumber_3",
+        "rankup_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank3",
-      "GachaPoolGroupIds": [ "guaranteed_ramsay_3", "rankup_secondary", "good_premium" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_ramsay_3",
+        "rankup_secondary",
+        "good_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank4",
-      "GachaPoolGroupIds": [ "guaranteed_animatronic_3", "rankup_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_animatronic_3",
+        "rankup_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank5",
-      "GachaPoolGroupIds": [ "rankup_manager_rank5", "rankup_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank5",
+        "rankup_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank6",
-      "GachaPoolGroupIds": [ "guaranteed_irwin_3", "rankup_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_irwin_3",
+        "rankup_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank7",
-      "GachaPoolGroupIds": [ "rankup_manager_rank7", "rankup_secondary", "better_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank7",
+        "rankup_secondary",
+        "better_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank8",
-      "GachaPoolGroupIds": [ "rankup_manager_rank8", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank8",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank9",
-      "GachaPoolGroupIds": [ "rankup_manager_rank9", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank9",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank10",
-      "GachaPoolGroupIds": [ "rankup_manager_rank10", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank10",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank11",
-      "GachaPoolGroupIds": [ "rankup_manager_rank11", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank11",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank12",
-      "GachaPoolGroupIds": [ "rankup_manager_rank12", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank12",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank13",
-      "GachaPoolGroupIds": [ "rankup_manager_rank13", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank13",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank14",
-      "GachaPoolGroupIds": [ "rankup_manager_rank14", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank14",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank15",
-      "GachaPoolGroupIds": [ "rankup_manager_rank15", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_rank15",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_rank16",
-      "GachaPoolGroupIds": [ "guaranteed_magician_3", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_magician_3",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rankup_standard",
-      "GachaPoolGroupIds": [ "rankup_manager_any", "rankup_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "rankup_manager_any",
+        "rankup_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_standard",
-      "GachaPoolGroupIds": [ "mini_manager_any_main", "mini_manager_any_secondary", "mini_manager_any_secondary" ],
+      "GachaPoolGroupIds": [
+        "mini_manager_any_main",
+        "mini_manager_any_secondary",
+        "mini_manager_any_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_standard",
-      "GachaPoolGroupIds": [ "big_manager_any_main", "big_manager_any_secondary", "big_manager_any_secondary" ],
+      "GachaPoolGroupIds": [
+        "big_manager_any_main",
+        "big_manager_any_secondary",
+        "big_manager_any_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_standard",
-      "GachaPoolGroupIds": [ "mega_manager_main", "mega_manager_secondary", "mega_manager_secondary" ],
+      "GachaPoolGroupIds": [
+        "mega_manager_main",
+        "mega_manager_secondary",
+        "mega_manager_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "MS_Gacha_Interior_5",
-      "GachaPoolGroupIds": [ "guaranteed_interior_5", "big_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_interior_5",
+        "big_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "MS_Gacha_Janitor_5",
-      "GachaPoolGroupIds": [ "guaranteed_janitor_5", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_janitor_5",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Gustave_5",
-      "GachaPoolGroupIds": [ "guaranteed_gustave_5", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_gustave_5",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Ramsay_5",
-      "GachaPoolGroupIds": [ "guaranteed_ramsay_5", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_ramsay_5",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Mentor_7",
-      "GachaPoolGroupIds": [ "guaranteed_mentor_7", "regular_secondary", "rankup_premium" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_mentor_7",
+        "regular_secondary",
+        "rankup_premium"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Gustave_10",
-      "GachaPoolGroupIds": [ "guaranteed_gustave_10", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_gustave_10",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Cucumber_7",
-      "GachaPoolGroupIds": [ "guaranteed_cucumber_7", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_cucumber_7",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Wick_7",
-      "GachaPoolGroupIds": [ "guaranteed_wick_7", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_wick_7",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Pirate_7",
-      "GachaPoolGroupIds": [ "guaranteed_pirate_7", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_pirate_7",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Irwin_7",
-      "GachaPoolGroupIds": [ "guaranteed_irwin_7", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_irwin_7",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Janitor_7",
-      "GachaPoolGroupIds": [ "guaranteed_janitor_7", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_janitor_7",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Jabba_7",
-      "GachaPoolGroupIds": [ "guaranteed_jabba_7", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_jabba_7",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Alfred_7",
-      "GachaPoolGroupIds": [ "guaranteed_alfred_7", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_alfred_7",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Animatronic_7",
-      "GachaPoolGroupIds": [ "guaranteed_animatronic_7", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_animatronic_7",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Bates_3",
-      "GachaPoolGroupIds": [ "guaranteed_bates_3", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_bates_3",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Pilates_3",
-      "GachaPoolGroupIds": [ "guaranteed_pilates_3", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_pilates_3",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Michelin_3",
-      "GachaPoolGroupIds": [ "guaranteed_michelin_3", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_michelin_3",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_MC_3",
-      "GachaPoolGroupIds": [ "guaranteed_mc_3", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_mc_3",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Magician_3",
-      "GachaPoolGroupIds": [ "guaranteed_magician_3", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_magician_3",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Barista_7",
-      "GachaPoolGroupIds": [ "guaranteed_barista_7", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_barista_7",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Rootbeer_1",
-      "GachaPoolGroupIds": [ "guaranteed_rootbeer_1", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_rootbeer_1",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "MS_Gacha_EcoWarrior_1",
-      "GachaPoolGroupIds": [ "guaranteed_ecowarrior_1", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_ecowarrior_1",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "MS_Gacha_Pirate_3",
-      "GachaPoolGroupIds": [ "guaranteed_pirate_3", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_pirate_3",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "MS_Gacha_Mud_3",
-      "GachaPoolGroupIds": [ "guaranteed_mud_3", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_mud_3",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "MS_Gacha_Swim_3",
-      "GachaPoolGroupIds": [ "guaranteed_swim_3", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_swim_3",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "MS_Gacha_Gustave_1",
-      "GachaPoolGroupIds": [ "guaranteed_gustave_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_gustave_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Gustave_3",
-      "GachaPoolGroupIds": [ "guaranteed_gustave_3", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_gustave_3",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "MS_Gacha_Ramsay_1",
-      "GachaPoolGroupIds": [ "guaranteed_ramsay_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_ramsay_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Cucumber_1",
-      "GachaPoolGroupIds": [ "guaranteed_cucumber_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_cucumber_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Animatronic_3",
-      "GachaPoolGroupIds": [ "guaranteed_animatronic_3", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_animatronic_3",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "MS_Gacha_Cucumber_3",
-      "GachaPoolGroupIds": [ "guaranteed_cucumber_3", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_cucumber_3",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Irwin_1",
-      "GachaPoolGroupIds": [ "guaranteed_irwin_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_irwin_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Bates_5",
-      "GachaPoolGroupIds": [ "guaranteed_bates_5", "good_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_bates_5",
+        "good_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Michelin_1",
-      "GachaPoolGroupIds": [ "guaranteed_michelin_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_michelin_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Hope_5",
-      "GachaPoolGroupIds": [ "guaranteed_hope_5", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_hope_5",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "MS_Gacha_Jetson_1",
-      "GachaPoolGroupIds": [ "guaranteed_jetson_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_jetson_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "MS_Gacha_Fitnessgoal_1",
-      "GachaPoolGroupIds": [ "guaranteed_fitnessgoal_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_fitnessgoal_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Pilates_1",
-      "GachaPoolGroupIds": [ "guaranteed_pilates_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_pilates_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Ladyplant_1",
-      "GachaPoolGroupIds": [ "guaranteed_ladyplant_1", "better_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_ladyplant_1",
+        "better_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "MS_Gacha_Magician_1",
-      "GachaPoolGroupIds": [ "guaranteed_magician_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_magician_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Barista_1",
-      "GachaPoolGroupIds": [ "guaranteed_barista_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_barista_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Sergeant_1",
-      "GachaPoolGroupIds": [ "guaranteed_sergeant_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_sergeant_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_CircusMC_1",
-      "GachaPoolGroupIds": [ "guaranteed_circusmc_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_circusmc_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Swim1",
-      "GachaPoolGroupIds": [ "guaranteed_swim_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_swim_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "MS_Gacha_Bates_1",
-      "GachaPoolGroupIds": [ "guaranteed_bates_1", "regular_secondary" ],
+      "GachaPoolGroupIds": [
+        "guaranteed_bates_1",
+        "regular_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "purplegrasslte_reward_diff1",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff1_3", "trophy_purplegrasslte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff1_3",
+        "trophy_purplegrasslte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "purplegrasslte_reward_diff2",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff1_3", "trophy_purplegrasslte_10" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff1_3",
+        "trophy_purplegrasslte_10"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "purplegrasslte_reward_diff3",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff1_3", "trophy_purplegrasslte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff1_3",
+        "trophy_purplegrasslte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "purplegrasslte_reward_diff4",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff4_5", "trophy_purplegrasslte_40" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff4_5",
+        "trophy_purplegrasslte_40"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "purplegrasslte_reward_diff5",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff4_5", "trophy_purplegrasslte_60" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff4_5",
+        "trophy_purplegrasslte_60"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "purplegrasslte_reward_diff6",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff6_7", "trophy_purplegrasslte_85" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff6_7",
+        "trophy_purplegrasslte_85"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "purplegrasslte_reward_diff7",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff6_7", "trophy_purplegrasslte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff6_7",
+        "trophy_purplegrasslte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "purplegrasslte_reward_diff8",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff8_10", "trophy_purplegrasslte_125", "premium_purplegrasslte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff8_10",
+        "trophy_purplegrasslte_125",
+        "premium_purplegrasslte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "purplegrasslte_reward_diff9",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff8_10", "trophy_purplegrasslte_150", "premium_purplegrasslte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff8_10",
+        "trophy_purplegrasslte_150",
+        "premium_purplegrasslte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "purplegrasslte_reward_diff10",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_diff8_10", "trophy_purplegrasslte_200", "premium_purplegrasslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_diff8_10",
+        "trophy_purplegrasslte_200",
+        "premium_purplegrasslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "purplegrasslte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank2_5", "trophy_purplegrasslte_15", "premium_purplegrasslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank2_5",
+        "trophy_purplegrasslte_15",
+        "premium_purplegrasslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank2_5", "trophy_purplegrasslte_25", "premium_purplegrasslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank2_5",
+        "trophy_purplegrasslte_25",
+        "premium_purplegrasslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank2_5", "trophy_purplegrasslte_50", "premium_purplegrasslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank2_5",
+        "trophy_purplegrasslte_50",
+        "premium_purplegrasslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank2_5", "trophy_purplegrasslte_100", "consumable_purplegrasslte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank2_5",
+        "trophy_purplegrasslte_100",
+        "consumable_purplegrasslte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_125", "premium_purplegrasslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_125",
+        "premium_purplegrasslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_200", "premium_purplegrasslte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_200",
+        "premium_purplegrasslte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_240", "premium_purplegrasslte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_240",
+        "premium_purplegrasslte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_300", "consumable_purplegrasslte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_300",
+        "consumable_purplegrasslte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_450", "premium_purplegrasslte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_450",
+        "premium_purplegrasslte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_600", "premium_purplegrasslte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_600",
+        "premium_purplegrasslte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_900", "consumable_purplegrasslte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_900",
+        "consumable_purplegrasslte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_1000", "premium_purplegrasslte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_1000",
+        "premium_purplegrasslte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_1200", "consumable_purplegrasslte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_1200",
+        "consumable_purplegrasslte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "purplegrasslte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_rank6_15", "trophy_purplegrasslte_1500", "consumable_purplegrasslte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_rank6_15",
+        "trophy_purplegrasslte_1500",
+        "consumable_purplegrasslte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_purplegrasslte",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_minibox_main", "managers_purplegrasslte_minibox_secondary", "managers_purplegrasslte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_minibox_main",
+        "managers_purplegrasslte_minibox_secondary",
+        "managers_purplegrasslte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_purplegrasslte",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_bigbox_main", "managers_purplegrasslte_bigbox_secondary", "managers_purplegrasslte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_bigbox_main",
+        "managers_purplegrasslte_bigbox_secondary",
+        "managers_purplegrasslte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_purplegrasslte",
-      "GachaPoolGroupIds": [ "managers_purplegrasslte_megabox_main", "managers_purplegrasslte_megabox_secondary", "managers_purplegrasslte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_purplegrasslte_megabox_main",
+        "managers_purplegrasslte_megabox_secondary",
+        "managers_purplegrasslte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "desertislandlte_reward_diff1",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff1_3", "trophy_desertislandlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff1_3",
+        "trophy_desertislandlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "desertislandlte_reward_diff2",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff1_3", "trophy_desertislandlte_10" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff1_3",
+        "trophy_desertislandlte_10"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "desertislandlte_reward_diff3",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff1_3", "trophy_desertislandlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff1_3",
+        "trophy_desertislandlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "desertislandlte_reward_diff4",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff4_5", "trophy_desertislandlte_40" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff4_5",
+        "trophy_desertislandlte_40"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "desertislandlte_reward_diff5",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff4_5", "trophy_desertislandlte_60" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff4_5",
+        "trophy_desertislandlte_60"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "desertislandlte_reward_diff6",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff6_7", "trophy_desertislandlte_85" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff6_7",
+        "trophy_desertislandlte_85"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "desertislandlte_reward_diff7",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff6_7", "trophy_desertislandlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff6_7",
+        "trophy_desertislandlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "desertislandlte_reward_diff8",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff8_10", "trophy_desertislandlte_125", "premium_desertislandlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff8_10",
+        "trophy_desertislandlte_125",
+        "premium_desertislandlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "desertislandlte_reward_diff9",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff8_10", "trophy_desertislandlte_150", "premium_desertislandlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff8_10",
+        "trophy_desertislandlte_150",
+        "premium_desertislandlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "desertislandlte_reward_diff10",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_diff8_10", "trophy_desertislandlte_200", "premium_desertislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_diff8_10",
+        "trophy_desertislandlte_200",
+        "premium_desertislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "desertislandlte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank2_5", "trophy_desertislandlte_15", "premium_desertislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank2_5",
+        "trophy_desertislandlte_15",
+        "premium_desertislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank2_5", "trophy_desertislandlte_25", "premium_desertislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank2_5",
+        "trophy_desertislandlte_25",
+        "premium_desertislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank2_5", "trophy_desertislandlte_50", "premium_desertislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank2_5",
+        "trophy_desertislandlte_50",
+        "premium_desertislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank2_5", "trophy_desertislandlte_100", "consumable_desertislandlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank2_5",
+        "trophy_desertislandlte_100",
+        "consumable_desertislandlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_125", "premium_desertislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_125",
+        "premium_desertislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_200", "premium_desertislandlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_200",
+        "premium_desertislandlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_240", "premium_desertislandlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_240",
+        "premium_desertislandlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_300", "consumable_desertislandlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_300",
+        "consumable_desertislandlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_450", "premium_desertislandlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_450",
+        "premium_desertislandlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_600", "premium_desertislandlte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_600",
+        "premium_desertislandlte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_900", "consumable_desertislandlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_900",
+        "consumable_desertislandlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_1000", "premium_desertislandlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_1000",
+        "premium_desertislandlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_1200", "consumable_desertislandlte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_1200",
+        "consumable_desertislandlte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "desertislandlte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_rank6_15", "trophy_desertislandlte_1500", "consumable_desertislandlte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_rank6_15",
+        "trophy_desertislandlte_1500",
+        "consumable_desertislandlte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_desertislandlte",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_minibox_main", "managers_desertislandlte_minibox_secondary", "managers_desertislandlte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_minibox_main",
+        "managers_desertislandlte_minibox_secondary",
+        "managers_desertislandlte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_desertislandlte",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_bigbox_main", "managers_desertislandlte_bigbox_secondary", "managers_desertislandlte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_bigbox_main",
+        "managers_desertislandlte_bigbox_secondary",
+        "managers_desertislandlte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_desertislandlte",
-      "GachaPoolGroupIds": [ "managers_desertislandlte_megabox_main", "managers_desertislandlte_megabox_secondary", "managers_desertislandlte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_desertislandlte_megabox_main",
+        "managers_desertislandlte_megabox_secondary",
+        "managers_desertislandlte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "dinosaurlte_reward_diff1",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff1_3", "trophy_dinosaurlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff1_3",
+        "trophy_dinosaurlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "dinosaurlte_reward_diff2",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff1_3", "trophy_dinosaurlte_10" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff1_3",
+        "trophy_dinosaurlte_10"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "dinosaurlte_reward_diff3",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff1_3", "trophy_dinosaurlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff1_3",
+        "trophy_dinosaurlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "dinosaurlte_reward_diff4",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff4_5", "trophy_dinosaurlte_40" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff4_5",
+        "trophy_dinosaurlte_40"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "dinosaurlte_reward_diff5",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff4_5", "trophy_dinosaurlte_60" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff4_5",
+        "trophy_dinosaurlte_60"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "dinosaurlte_reward_diff6",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff6_7", "trophy_dinosaurlte_85" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff6_7",
+        "trophy_dinosaurlte_85"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "dinosaurlte_reward_diff7",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff6_7", "trophy_dinosaurlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff6_7",
+        "trophy_dinosaurlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "dinosaurlte_reward_diff8",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff8_10", "trophy_dinosaurlte_125", "premium_dinosaurlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff8_10",
+        "trophy_dinosaurlte_125",
+        "premium_dinosaurlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "dinosaurlte_reward_diff9",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff8_10", "trophy_dinosaurlte_150", "premium_dinosaurlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff8_10",
+        "trophy_dinosaurlte_150",
+        "premium_dinosaurlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "dinosaurlte_reward_diff10",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_diff8_10", "trophy_dinosaurlte_200", "premium_dinosaurlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_diff8_10",
+        "trophy_dinosaurlte_200",
+        "premium_dinosaurlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "dinosaurlte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank2_5", "trophy_dinosaurlte_15", "premium_dinosaurlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank2_5",
+        "trophy_dinosaurlte_15",
+        "premium_dinosaurlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank2_5", "trophy_dinosaurlte_25", "premium_dinosaurlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank2_5",
+        "trophy_dinosaurlte_25",
+        "premium_dinosaurlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank2_5", "trophy_dinosaurlte_50", "premium_dinosaurlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank2_5",
+        "trophy_dinosaurlte_50",
+        "premium_dinosaurlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank2_5", "trophy_dinosaurlte_100", "consumable_dinosaurlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank2_5",
+        "trophy_dinosaurlte_100",
+        "consumable_dinosaurlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_125", "premium_dinosaurlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_125",
+        "premium_dinosaurlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_200", "premium_dinosaurlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_200",
+        "premium_dinosaurlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_240", "premium_dinosaurlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_240",
+        "premium_dinosaurlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_300", "consumable_dinosaurlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_300",
+        "consumable_dinosaurlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_450", "premium_dinosaurlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_450",
+        "premium_dinosaurlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_600", "premium_dinosaurlte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_600",
+        "premium_dinosaurlte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_900", "consumable_dinosaurlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_900",
+        "consumable_dinosaurlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_1000", "premium_dinosaurlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_1000",
+        "premium_dinosaurlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_1200", "consumable_dinosaurlte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_1200",
+        "consumable_dinosaurlte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "dinosaurlte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_rank6_15", "trophy_dinosaurlte_1500", "consumable_dinosaurlte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_rank6_15",
+        "trophy_dinosaurlte_1500",
+        "consumable_dinosaurlte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_dinosaurlte",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_minibox_main", "managers_dinosaurlte_minibox_secondary", "managers_dinosaurlte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_minibox_main",
+        "managers_dinosaurlte_minibox_secondary",
+        "managers_dinosaurlte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_dinosaurlte",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_bigbox_main", "managers_dinosaurlte_bigbox_secondary", "managers_dinosaurlte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_bigbox_main",
+        "managers_dinosaurlte_bigbox_secondary",
+        "managers_dinosaurlte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_dinosaurlte",
-      "GachaPoolGroupIds": [ "managers_dinosaurlte_megabox_main", "managers_dinosaurlte_megabox_secondary", "managers_dinosaurlte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_dinosaurlte_megabox_main",
+        "managers_dinosaurlte_megabox_secondary",
+        "managers_dinosaurlte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "rainislandlte_reward_diff1",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff1_3", "trophy_rainislandlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff1_3",
+        "trophy_rainislandlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "rainislandlte_reward_diff2",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff1_3", "trophy_rainislandlte_10" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff1_3",
+        "trophy_rainislandlte_10"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "rainislandlte_reward_diff3",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff1_3", "trophy_rainislandlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff1_3",
+        "trophy_rainislandlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "rainislandlte_reward_diff4",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff4_5", "trophy_rainislandlte_40" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff4_5",
+        "trophy_rainislandlte_40"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "rainislandlte_reward_diff5",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff4_5", "trophy_rainislandlte_60" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff4_5",
+        "trophy_rainislandlte_60"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "rainislandlte_reward_diff6",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff6_7", "trophy_rainislandlte_85" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff6_7",
+        "trophy_rainislandlte_85"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "rainislandlte_reward_diff7",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff6_7", "trophy_rainislandlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff6_7",
+        "trophy_rainislandlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "rainislandlte_reward_diff8",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff8_10", "trophy_rainislandlte_125", "premium_rainislandlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff8_10",
+        "trophy_rainislandlte_125",
+        "premium_rainislandlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "rainislandlte_reward_diff9",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff8_10", "trophy_rainislandlte_150", "premium_rainislandlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff8_10",
+        "trophy_rainislandlte_150",
+        "premium_rainislandlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "rainislandlte_reward_diff10",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_diff8_10", "trophy_rainislandlte_200", "premium_rainislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_diff8_10",
+        "trophy_rainislandlte_200",
+        "premium_rainislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "rainislandlte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank2_5", "trophy_rainislandlte_15", "premium_rainislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank2_5",
+        "trophy_rainislandlte_15",
+        "premium_rainislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank2_5", "trophy_rainislandlte_25", "premium_rainislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank2_5",
+        "trophy_rainislandlte_25",
+        "premium_rainislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank2_5", "trophy_rainislandlte_50", "premium_rainislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank2_5",
+        "trophy_rainislandlte_50",
+        "premium_rainislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank2_5", "trophy_rainislandlte_100", "consumable_rainislandlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank2_5",
+        "trophy_rainislandlte_100",
+        "consumable_rainislandlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_125", "premium_rainislandlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_125",
+        "premium_rainislandlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_200", "premium_rainislandlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_200",
+        "premium_rainislandlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_240", "premium_rainislandlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_240",
+        "premium_rainislandlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_300", "consumable_rainislandlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_300",
+        "consumable_rainislandlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_450", "premium_rainislandlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_450",
+        "premium_rainislandlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_600", "premium_rainislandlte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_600",
+        "premium_rainislandlte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_900", "consumable_rainislandlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_900",
+        "consumable_rainislandlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_1000", "premium_rainislandlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_1000",
+        "premium_rainislandlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_1200", "consumable_rainislandlte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_1200",
+        "consumable_rainislandlte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "rainislandlte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_rank6_15", "trophy_rainislandlte_1500", "consumable_rainislandlte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_rank6_15",
+        "trophy_rainislandlte_1500",
+        "consumable_rainislandlte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_rainislandlte",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_minibox_main", "managers_rainislandlte_minibox_secondary", "managers_rainislandlte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_minibox_main",
+        "managers_rainislandlte_minibox_secondary",
+        "managers_rainislandlte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_rainislandlte",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_bigbox_main", "managers_rainislandlte_bigbox_secondary", "managers_rainislandlte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_bigbox_main",
+        "managers_rainislandlte_bigbox_secondary",
+        "managers_rainislandlte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_rainislandlte",
-      "GachaPoolGroupIds": [ "managers_rainislandlte_megabox_main", "managers_rainislandlte_megabox_secondary", "managers_rainislandlte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_rainislandlte_megabox_main",
+        "managers_rainislandlte_megabox_secondary",
+        "managers_rainislandlte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "nightlifelte_reward_diff1",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff1_3", "trophy_nightlifelte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff1_3",
+        "trophy_nightlifelte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "nightlifelte_reward_diff2",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff1_3", "trophy_nightlifelte_10" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff1_3",
+        "trophy_nightlifelte_10"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "nightlifelte_reward_diff3",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff1_3", "trophy_nightlifelte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff1_3",
+        "trophy_nightlifelte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "nightlifelte_reward_diff4",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff4_5", "trophy_nightlifelte_40" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff4_5",
+        "trophy_nightlifelte_40"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "nightlifelte_reward_diff5",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff4_5", "trophy_nightlifelte_60" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff4_5",
+        "trophy_nightlifelte_60"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "nightlifelte_reward_diff6",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff6_7", "trophy_nightlifelte_85" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff6_7",
+        "trophy_nightlifelte_85"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "nightlifelte_reward_diff7",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff6_7", "trophy_nightlifelte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff6_7",
+        "trophy_nightlifelte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "nightlifelte_reward_diff8",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff8_10", "trophy_nightlifelte_125", "premium_nightlifelte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff8_10",
+        "trophy_nightlifelte_125",
+        "premium_nightlifelte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "nightlifelte_reward_diff9",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff8_10", "trophy_nightlifelte_150", "premium_nightlifelte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff8_10",
+        "trophy_nightlifelte_150",
+        "premium_nightlifelte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "nightlifelte_reward_diff10",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_diff8_10", "trophy_nightlifelte_200", "premium_nightlifelte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_diff8_10",
+        "trophy_nightlifelte_200",
+        "premium_nightlifelte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "nightlifelte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank2_5", "trophy_nightlifelte_15", "premium_nightlifelte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank2_5",
+        "trophy_nightlifelte_15",
+        "premium_nightlifelte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank2_5", "trophy_nightlifelte_25", "premium_nightlifelte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank2_5",
+        "trophy_nightlifelte_25",
+        "premium_nightlifelte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank2_5", "trophy_nightlifelte_50", "premium_nightlifelte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank2_5",
+        "trophy_nightlifelte_50",
+        "premium_nightlifelte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank2_5", "trophy_nightlifelte_100", "consumable_nightlifelte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank2_5",
+        "trophy_nightlifelte_100",
+        "consumable_nightlifelte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_125", "premium_nightlifelte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_125",
+        "premium_nightlifelte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_200", "premium_nightlifelte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_200",
+        "premium_nightlifelte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_240", "premium_nightlifelte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_240",
+        "premium_nightlifelte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_300", "consumable_nightlifelte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_300",
+        "consumable_nightlifelte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_450", "premium_nightlifelte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_450",
+        "premium_nightlifelte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_600", "premium_nightlifelte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_600",
+        "premium_nightlifelte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_900", "consumable_nightlifelte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_900",
+        "consumable_nightlifelte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_1000", "premium_nightlifelte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_1000",
+        "premium_nightlifelte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_1200", "consumable_nightlifelte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_1200",
+        "consumable_nightlifelte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "nightlifelte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_rank6_15", "trophy_nightlifelte_1500", "consumable_nightlifelte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_rank6_15",
+        "trophy_nightlifelte_1500",
+        "consumable_nightlifelte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_nightlifelte",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_minibox_main", "managers_nightlifelte_minibox_secondary", "managers_nightlifelte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_minibox_main",
+        "managers_nightlifelte_minibox_secondary",
+        "managers_nightlifelte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_nightlifelte",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_bigbox_main", "managers_nightlifelte_bigbox_secondary", "managers_nightlifelte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_bigbox_main",
+        "managers_nightlifelte_bigbox_secondary",
+        "managers_nightlifelte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_nightlifelte",
-      "GachaPoolGroupIds": [ "managers_nightlifelte_megabox_main", "managers_nightlifelte_megabox_secondary", "managers_nightlifelte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_nightlifelte_megabox_main",
+        "managers_nightlifelte_megabox_secondary",
+        "managers_nightlifelte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "underwaterlte_reward_diff1",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff1_3", "trophy_underwaterlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff1_3",
+        "trophy_underwaterlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "underwaterlte_reward_diff2",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff1_3", "trophy_underwaterlte_10" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff1_3",
+        "trophy_underwaterlte_10"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "underwaterlte_reward_diff3",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff1_3", "trophy_underwaterlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff1_3",
+        "trophy_underwaterlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "underwaterlte_reward_diff4",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff4_5", "trophy_underwaterlte_40" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff4_5",
+        "trophy_underwaterlte_40"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "underwaterlte_reward_diff5",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff4_5", "trophy_underwaterlte_60" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff4_5",
+        "trophy_underwaterlte_60"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "underwaterlte_reward_diff6",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff6_7", "trophy_underwaterlte_85" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff6_7",
+        "trophy_underwaterlte_85"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "underwaterlte_reward_diff7",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff6_7", "trophy_underwaterlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff6_7",
+        "trophy_underwaterlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "BetterMission"
     },
     {
       "Id": "underwaterlte_reward_diff8",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff8_10", "trophy_underwaterlte_125", "premium_underwaterlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff8_10",
+        "trophy_underwaterlte_125",
+        "premium_underwaterlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "underwaterlte_reward_diff9",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff8_10", "trophy_underwaterlte_150", "premium_underwaterlte_5" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff8_10",
+        "trophy_underwaterlte_150",
+        "premium_underwaterlte_5"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "underwaterlte_reward_diff10",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_diff8_10", "trophy_underwaterlte_200", "premium_underwaterlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_diff8_10",
+        "trophy_underwaterlte_200",
+        "premium_underwaterlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "BestMission"
     },
     {
       "Id": "underwaterlte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank2_5", "trophy_underwaterlte_15", "premium_underwaterlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank2_5",
+        "trophy_underwaterlte_15",
+        "premium_underwaterlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank2_5", "trophy_underwaterlte_25", "premium_underwaterlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank2_5",
+        "trophy_underwaterlte_25",
+        "premium_underwaterlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank2_5", "trophy_underwaterlte_50", "premium_underwaterlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank2_5",
+        "trophy_underwaterlte_50",
+        "premium_underwaterlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank2_5", "trophy_underwaterlte_100", "consumable_underwaterlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank2_5",
+        "trophy_underwaterlte_100",
+        "consumable_underwaterlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_125", "premium_underwaterlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_125",
+        "premium_underwaterlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_200", "premium_underwaterlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_200",
+        "premium_underwaterlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_240", "premium_underwaterlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_240",
+        "premium_underwaterlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_300", "consumable_underwaterlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_300",
+        "consumable_underwaterlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_450", "premium_underwaterlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_450",
+        "premium_underwaterlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_600", "premium_underwaterlte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_600",
+        "premium_underwaterlte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_900", "consumable_underwaterlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_900",
+        "consumable_underwaterlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_1000", "premium_underwaterlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_1000",
+        "premium_underwaterlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_1200", "consumable_underwaterlte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_1200",
+        "consumable_underwaterlte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "underwaterlte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_rank6_15", "trophy_underwaterlte_1500", "consumable_underwaterlte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_rank6_15",
+        "trophy_underwaterlte_1500",
+        "consumable_underwaterlte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_underwaterlte",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_minibox_main", "managers_underwaterlte_minibox_secondary", "managers_underwaterlte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_minibox_main",
+        "managers_underwaterlte_minibox_secondary",
+        "managers_underwaterlte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_underwaterlte",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_bigbox_main", "managers_underwaterlte_bigbox_secondary", "managers_underwaterlte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_bigbox_main",
+        "managers_underwaterlte_bigbox_secondary",
+        "managers_underwaterlte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_underwaterlte",
-      "GachaPoolGroupIds": [ "managers_underwaterlte_megabox_main", "managers_underwaterlte_megabox_secondary", "managers_underwaterlte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_underwaterlte_megabox_main",
+        "managers_underwaterlte_megabox_secondary",
+        "managers_underwaterlte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "progresshotellte_reward",
-      "GachaPoolGroupIds": [ "managers_progresshotellte" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "progresshotellte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "premium_progresshotellte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "premium_progresshotellte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "premium_progresshotellte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "premium_progresshotellte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "premium_progresshotellte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "premium_progresshotellte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "consumable_progresshotellte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "consumable_progresshotellte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "premium_progresshotellte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "premium_progresshotellte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "premium_progresshotellte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "premium_progresshotellte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "premium_progresshotellte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "premium_progresshotellte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "consumable_progresshotellte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "consumable_progresshotellte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "premium_progresshotellte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "premium_progresshotellte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "premium_progresshotellte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "premium_progresshotellte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "consumable_progresshotellte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "consumable_progresshotellte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "premium_progresshotellte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "premium_progresshotellte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "consumable_progresshotellte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "consumable_progresshotellte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresshotellte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_progresshotellte", "consumable_progresshotellte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte",
+        "consumable_progresshotellte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_progresshotellte",
-      "GachaPoolGroupIds": [ "managers_progresshotellte_minibox_main", "managers_progresshotellte_minibox_secondary", "managers_progresshotellte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte_minibox_main",
+        "managers_progresshotellte_minibox_secondary",
+        "managers_progresshotellte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_progresshotellte",
-      "GachaPoolGroupIds": [ "managers_progresshotellte_bigbox_main", "managers_progresshotellte_bigbox_secondary", "managers_progresshotellte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte_bigbox_main",
+        "managers_progresshotellte_bigbox_secondary",
+        "managers_progresshotellte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_progresshotellte",
-      "GachaPoolGroupIds": [ "managers_progresshotellte_megabox_main", "managers_progresshotellte_megabox_secondary", "managers_progresshotellte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresshotellte_megabox_main",
+        "managers_progresshotellte_megabox_secondary",
+        "managers_progresshotellte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "progressrestaurantlte_reward",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "premium_progressrestaurantlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "premium_progressrestaurantlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "premium_progressrestaurantlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "premium_progressrestaurantlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "premium_progressrestaurantlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "premium_progressrestaurantlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "consumable_progressrestaurantlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "consumable_progressrestaurantlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "premium_progressrestaurantlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "premium_progressrestaurantlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "premium_progressrestaurantlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "premium_progressrestaurantlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "premium_progressrestaurantlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "premium_progressrestaurantlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "consumable_progressrestaurantlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "consumable_progressrestaurantlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "premium_progressrestaurantlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "premium_progressrestaurantlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "premium_progressrestaurantlte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "premium_progressrestaurantlte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "consumable_progressrestaurantlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "consumable_progressrestaurantlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "premium_progressrestaurantlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "premium_progressrestaurantlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "consumable_progressrestaurantlte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "consumable_progressrestaurantlte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressrestaurantlte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte", "consumable_progressrestaurantlte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte",
+        "consumable_progressrestaurantlte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_progressrestaurantlte",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte_minibox_main", "managers_progressrestaurantlte_minibox_secondary", "managers_progressrestaurantlte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte_minibox_main",
+        "managers_progressrestaurantlte_minibox_secondary",
+        "managers_progressrestaurantlte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_progressrestaurantlte",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte_bigbox_main", "managers_progressrestaurantlte_bigbox_secondary", "managers_progressrestaurantlte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte_bigbox_main",
+        "managers_progressrestaurantlte_bigbox_secondary",
+        "managers_progressrestaurantlte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_progressrestaurantlte",
-      "GachaPoolGroupIds": [ "managers_progressrestaurantlte_megabox_main", "managers_progressrestaurantlte_megabox_secondary", "managers_progressrestaurantlte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressrestaurantlte_megabox_main",
+        "managers_progressrestaurantlte_megabox_secondary",
+        "managers_progressrestaurantlte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "progressdrinklte_reward",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "progressdrinklte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "premium_progressdrinklte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "premium_progressdrinklte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "premium_progressdrinklte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "premium_progressdrinklte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "premium_progressdrinklte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "premium_progressdrinklte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "consumable_progressdrinklte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "consumable_progressdrinklte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "premium_progressdrinklte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "premium_progressdrinklte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "premium_progressdrinklte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "premium_progressdrinklte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "premium_progressdrinklte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "premium_progressdrinklte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "consumable_progressdrinklte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "consumable_progressdrinklte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "premium_progressdrinklte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "premium_progressdrinklte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "premium_progressdrinklte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "premium_progressdrinklte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "consumable_progressdrinklte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "consumable_progressdrinklte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "premium_progressdrinklte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "premium_progressdrinklte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "consumable_progressdrinklte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "consumable_progressdrinklte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressdrinklte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte", "consumable_progressdrinklte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte",
+        "consumable_progressdrinklte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_progressdrinklte",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte_minibox_main", "managers_progressdrinklte_minibox_secondary", "managers_progressdrinklte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte_minibox_main",
+        "managers_progressdrinklte_minibox_secondary",
+        "managers_progressdrinklte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_progressdrinklte",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte_bigbox_main", "managers_progressdrinklte_bigbox_secondary", "managers_progressdrinklte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte_bigbox_main",
+        "managers_progressdrinklte_bigbox_secondary",
+        "managers_progressdrinklte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_progressdrinklte",
-      "GachaPoolGroupIds": [ "managers_progressdrinklte_megabox_main", "managers_progressdrinklte_megabox_secondary", "managers_progressdrinklte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressdrinklte_megabox_main",
+        "managers_progressdrinklte_megabox_secondary",
+        "managers_progressdrinklte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "progressspalte_reward",
-      "GachaPoolGroupIds": [ "managers_progressspalte" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "progressspalte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "premium_progressspalte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "premium_progressspalte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "premium_progressspalte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "premium_progressspalte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "premium_progressspalte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "premium_progressspalte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "consumable_progressspalte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "consumable_progressspalte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "premium_progressspalte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "premium_progressspalte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "premium_progressspalte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "premium_progressspalte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "premium_progressspalte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "premium_progressspalte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "consumable_progressspalte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "consumable_progressspalte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "premium_progressspalte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "premium_progressspalte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "premium_progressspalte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "premium_progressspalte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "consumable_progressspalte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "consumable_progressspalte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "premium_progressspalte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "premium_progressspalte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "consumable_progressspalte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "consumable_progressspalte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressspalte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_progressspalte", "consumable_progressspalte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte",
+        "consumable_progressspalte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_progressspalte",
-      "GachaPoolGroupIds": [ "managers_progressspalte_minibox_main", "managers_progressspalte_minibox_secondary", "managers_progressspalte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte_minibox_main",
+        "managers_progressspalte_minibox_secondary",
+        "managers_progressspalte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_progressspalte",
-      "GachaPoolGroupIds": [ "managers_progressspalte_bigbox_main", "managers_progressspalte_bigbox_secondary", "managers_progressspalte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte_bigbox_main",
+        "managers_progressspalte_bigbox_secondary",
+        "managers_progressspalte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_progressspalte",
-      "GachaPoolGroupIds": [ "managers_progressspalte_megabox_main", "managers_progressspalte_megabox_secondary", "managers_progressspalte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressspalte_megabox_main",
+        "managers_progressspalte_megabox_secondary",
+        "managers_progressspalte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "progressfitnesslte_reward",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "progressfitnesslte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "premium_progressfitnesslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "premium_progressfitnesslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "premium_progressfitnesslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "premium_progressfitnesslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "premium_progressfitnesslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "premium_progressfitnesslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "consumable_progressfitnesslte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "consumable_progressfitnesslte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "premium_progressfitnesslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "premium_progressfitnesslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "premium_progressfitnesslte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "premium_progressfitnesslte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "premium_progressfitnesslte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "premium_progressfitnesslte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "consumable_progressfitnesslte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "consumable_progressfitnesslte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "premium_progressfitnesslte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "premium_progressfitnesslte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "premium_progressfitnesslte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "premium_progressfitnesslte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "consumable_progressfitnesslte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "consumable_progressfitnesslte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "premium_progressfitnesslte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "premium_progressfitnesslte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "consumable_progressfitnesslte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "consumable_progressfitnesslte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressfitnesslte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte", "consumable_progressfitnesslte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte",
+        "consumable_progressfitnesslte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_progressfitnesslte",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte_minibox_main", "managers_progressfitnesslte_minibox_secondary", "managers_progressfitnesslte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte_minibox_main",
+        "managers_progressfitnesslte_minibox_secondary",
+        "managers_progressfitnesslte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_progressfitnesslte",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte_bigbox_main", "managers_progressfitnesslte_bigbox_secondary", "managers_progressfitnesslte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte_bigbox_main",
+        "managers_progressfitnesslte_bigbox_secondary",
+        "managers_progressfitnesslte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_progressfitnesslte",
-      "GachaPoolGroupIds": [ "managers_progressfitnesslte_megabox_main", "managers_progressfitnesslte_megabox_secondary", "managers_progressfitnesslte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressfitnesslte_megabox_main",
+        "managers_progressfitnesslte_megabox_secondary",
+        "managers_progressfitnesslte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "progresswaterlte_reward",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "progresswaterlte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "premium_progresswaterlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "premium_progresswaterlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "premium_progresswaterlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "premium_progresswaterlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "premium_progresswaterlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "premium_progresswaterlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "consumable_progresswaterlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "consumable_progresswaterlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "premium_progresswaterlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "premium_progresswaterlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "premium_progresswaterlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "premium_progresswaterlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "premium_progresswaterlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "premium_progresswaterlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "consumable_progresswaterlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "consumable_progresswaterlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "premium_progresswaterlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "premium_progresswaterlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "premium_progresswaterlte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "premium_progresswaterlte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "consumable_progresswaterlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "consumable_progresswaterlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "premium_progresswaterlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "premium_progresswaterlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "consumable_progresswaterlte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "consumable_progresswaterlte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresswaterlte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte", "consumable_progresswaterlte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte",
+        "consumable_progresswaterlte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_progresswaterlte",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte_minibox_main", "managers_progresswaterlte_minibox_secondary", "managers_progresswaterlte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte_minibox_main",
+        "managers_progresswaterlte_minibox_secondary",
+        "managers_progresswaterlte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_progresswaterlte",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte_bigbox_main", "managers_progresswaterlte_bigbox_secondary", "managers_progresswaterlte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte_bigbox_main",
+        "managers_progresswaterlte_bigbox_secondary",
+        "managers_progresswaterlte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_progresswaterlte",
-      "GachaPoolGroupIds": [ "managers_progresswaterlte_megabox_main", "managers_progresswaterlte_megabox_secondary", "managers_progresswaterlte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresswaterlte_megabox_main",
+        "managers_progresswaterlte_megabox_secondary",
+        "managers_progresswaterlte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "progressentertainmentlte_reward",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "premium_progressentertainmentlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "premium_progressentertainmentlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "premium_progressentertainmentlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "premium_progressentertainmentlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "premium_progressentertainmentlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "premium_progressentertainmentlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "consumable_progressentertainmentlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "consumable_progressentertainmentlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "premium_progressentertainmentlte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "premium_progressentertainmentlte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "premium_progressentertainmentlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "premium_progressentertainmentlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "premium_progressentertainmentlte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "premium_progressentertainmentlte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "consumable_progressentertainmentlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "consumable_progressentertainmentlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "premium_progressentertainmentlte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "premium_progressentertainmentlte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "premium_progressentertainmentlte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "premium_progressentertainmentlte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "consumable_progressentertainmentlte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "consumable_progressentertainmentlte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "premium_progressentertainmentlte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "premium_progressentertainmentlte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "consumable_progressentertainmentlte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "consumable_progressentertainmentlte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progressentertainmentlte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte", "consumable_progressentertainmentlte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte",
+        "consumable_progressentertainmentlte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_progressentertainmentlte",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte_minibox_main", "managers_progressentertainmentlte_minibox_secondary", "managers_progressentertainmentlte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte_minibox_main",
+        "managers_progressentertainmentlte_minibox_secondary",
+        "managers_progressentertainmentlte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_progressentertainmentlte",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte_bigbox_main", "managers_progressentertainmentlte_bigbox_secondary", "managers_progressentertainmentlte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte_bigbox_main",
+        "managers_progressentertainmentlte_bigbox_secondary",
+        "managers_progressentertainmentlte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_progressentertainmentlte",
-      "GachaPoolGroupIds": [ "managers_progressentertainmentlte_megabox_main", "managers_progressentertainmentlte_megabox_secondary", "managers_progressentertainmentlte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progressentertainmentlte_megabox_main",
+        "managers_progressentertainmentlte_megabox_secondary",
+        "managers_progressentertainmentlte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "progresstourslte_reward",
-      "GachaPoolGroupIds": [ "managers_progresstourslte" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "progresstourslte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "premium_progresstourslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "premium_progresstourslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "premium_progresstourslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "premium_progresstourslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "premium_progresstourslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "premium_progresstourslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "consumable_progresstourslte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "consumable_progresstourslte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "premium_progresstourslte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "premium_progresstourslte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "premium_progresstourslte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "premium_progresstourslte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "premium_progresstourslte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "premium_progresstourslte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "consumable_progresstourslte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "consumable_progresstourslte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "premium_progresstourslte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "premium_progresstourslte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "premium_progresstourslte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "premium_progresstourslte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "consumable_progresstourslte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "consumable_progresstourslte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "premium_progresstourslte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "premium_progresstourslte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "consumable_progresstourslte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "consumable_progresstourslte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresstourslte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_progresstourslte", "consumable_progresstourslte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte",
+        "consumable_progresstourslte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_progresstourslte",
-      "GachaPoolGroupIds": [ "managers_progresstourslte_minibox_main", "managers_progresstourslte_minibox_secondary", "managers_progresstourslte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte_minibox_main",
+        "managers_progresstourslte_minibox_secondary",
+        "managers_progresstourslte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_progresstourslte",
-      "GachaPoolGroupIds": [ "managers_progresstourslte_bigbox_main", "managers_progresstourslte_bigbox_secondary", "managers_progresstourslte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte_bigbox_main",
+        "managers_progresstourslte_bigbox_secondary",
+        "managers_progresstourslte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_progresstourslte",
-      "GachaPoolGroupIds": [ "managers_progresstourslte_megabox_main", "managers_progresstourslte_megabox_secondary", "managers_progresstourslte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresstourslte_megabox_main",
+        "managers_progresstourslte_megabox_secondary",
+        "managers_progresstourslte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     },
     {
       "Id": "progresslivelte_reward",
-      "GachaPoolGroupIds": [ "managers_progresslivelte" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte"
+      ],
       "Type": "Normal",
       "PrefabId": "RegularMission"
     },
     {
       "Id": "progresslivelte_rankup_rank2",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "premium_progresslivelte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "premium_progresslivelte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank3",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "premium_progresslivelte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "premium_progresslivelte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank4",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "premium_progresslivelte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "premium_progresslivelte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank5",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "consumable_progresslivelte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "consumable_progresslivelte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank6",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "premium_progresslivelte_15" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "premium_progresslivelte_15"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank7",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "premium_progresslivelte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "premium_progresslivelte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank8",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "premium_progresslivelte_20" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "premium_progresslivelte_20"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank9",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "consumable_progresslivelte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "consumable_progresslivelte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank10",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "premium_progresslivelte_25" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "premium_progresslivelte_25"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank11",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "premium_progresslivelte_50" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "premium_progresslivelte_50"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank12",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "consumable_progresslivelte_small" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "consumable_progresslivelte_small"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank13",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "premium_progresslivelte_100" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "premium_progresslivelte_100"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank14",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "consumable_progresslivelte_mid" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "consumable_progresslivelte_mid"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "progresslivelte_rankup_rank15",
-      "GachaPoolGroupIds": [ "managers_progresslivelte", "consumable_progresslivelte_best" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte",
+        "consumable_progresslivelte_best"
+      ],
       "Type": "Normal",
       "PrefabId": "RankUp"
     },
     {
       "Id": "minibox_progresslivelte",
-      "GachaPoolGroupIds": [ "managers_progresslivelte_minibox_main", "managers_progresslivelte_minibox_secondary", "managers_progresslivelte_minibox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte_minibox_main",
+        "managers_progresslivelte_minibox_secondary",
+        "managers_progresslivelte_minibox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "BasicStore"
     },
     {
       "Id": "bigbox_progresslivelte",
-      "GachaPoolGroupIds": [ "managers_progresslivelte_bigbox_main", "managers_progresslivelte_bigbox_secondary", "managers_progresslivelte_bigbox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte_bigbox_main",
+        "managers_progresslivelte_bigbox_secondary",
+        "managers_progresslivelte_bigbox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "EpicStore"
     },
     {
       "Id": "megabox_progresslivelte",
-      "GachaPoolGroupIds": [ "managers_progresslivelte_megabox_main", "managers_progresslivelte_megabox_secondary", "managers_progresslivelte_megabox_secondary" ],
+      "GachaPoolGroupIds": [
+        "managers_progresslivelte_megabox_main",
+        "managers_progresslivelte_megabox_secondary",
+        "managers_progresslivelte_megabox_secondary"
+      ],
       "Type": "Normal",
       "PrefabId": "LegendaryStore"
     }
@@ -27809,23 +29426,127 @@
   "Rarity": [
     {
       "Rarity": "Common",
-      "CardCost": [ 5, 8, 10, 15, 20, 25, 30, 40, 50, 60, 80, 100 ],
-      "SecondaryCurrencyCost": [ 0, 400, 800, 1200, 1600, 2000, 2500, 3000, 3500, 4000, 4500, 5000 ]
+      "CardCost": [
+        5,
+        8,
+        10,
+        15,
+        20,
+        25,
+        30,
+        40,
+        50,
+        60,
+        80,
+        100
+      ],
+      "SecondaryCurrencyCost": [
+        0,
+        400,
+        800,
+        1200,
+        1600,
+        2000,
+        2500,
+        3000,
+        3500,
+        4000,
+        4500,
+        5000
+      ]
     },
     {
       "Rarity": "Rare",
-      "CardCost": [ 5, 8, 10, 15, 20, 25, 30, 40, 50, 60, 80, 100 ],
-      "SecondaryCurrencyCost": [ 0, 400, 800, 1200, 1600, 2000, 2500, 3000, 3500, 4000, 4500, 5000 ]
+      "CardCost": [
+        5,
+        8,
+        10,
+        15,
+        20,
+        25,
+        30,
+        40,
+        50,
+        60,
+        80,
+        100
+      ],
+      "SecondaryCurrencyCost": [
+        0,
+        400,
+        800,
+        1200,
+        1600,
+        2000,
+        2500,
+        3000,
+        3500,
+        4000,
+        4500,
+        5000
+      ]
     },
     {
       "Rarity": "Epic",
-      "CardCost": [ 5, 8, 10, 15, 20, 25, 30, 40, 50, 60, 80, 100 ],
-      "SecondaryCurrencyCost": [ 0, 400, 800, 1200, 1600, 2000, 2500, 3000, 3500, 4000, 4500, 5000 ]
+      "CardCost": [
+        5,
+        8,
+        10,
+        15,
+        20,
+        25,
+        30,
+        40,
+        50,
+        60,
+        80,
+        100
+      ],
+      "SecondaryCurrencyCost": [
+        0,
+        400,
+        800,
+        1200,
+        1600,
+        2000,
+        2500,
+        3000,
+        3500,
+        4000,
+        4500,
+        5000
+      ]
     },
     {
       "Rarity": "Legendary",
-      "CardCost": [ 5, 8, 10, 15, 20, 25, 30, 40, 50, 60, 80, 100 ],
-      "SecondaryCurrencyCost": [ 0, 400, 800, 1200, 1600, 2000, 2500, 3000, 3500, 4000, 4500, 5000 ]
+      "CardCost": [
+        5,
+        8,
+        10,
+        15,
+        20,
+        25,
+        30,
+        40,
+        50,
+        60,
+        80,
+        100
+      ],
+      "SecondaryCurrencyCost": [
+        0,
+        400,
+        800,
+        1200,
+        1600,
+        2000,
+        2500,
+        3000,
+        3500,
+        4000,
+        4500,
+        5000
+      ]
     }
   ],
   "Resources": [

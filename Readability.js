@@ -1,10 +1,3 @@
-function RunAllScripts()
-{
-  UpdateBusinessTable(1);
-  UpdateTable(1); 
-  CopiesToTokens();
-}
-
 function ConvertToReadable(Type)
 {
   const TypeMap =

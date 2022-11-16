@@ -1,15 +1,62 @@
-var request = new XMLHttpRequest();
-request.open("GET", "../../balance/ResortBalance.json", false);
-request.send(null)
-const BalanceFile = JSON.parse(request.responseText);
+function MenuSeasons()
+{
+  NewMenu("Seasons");
+  
+  const TitleSeasonFeatures = document.createElement("h2");
+  TitleSeasonFeatures.setAttribute("id", "mission_rank");
+  TitleSeasonFeatures.innerHTML = "Season Features <span style='color:#a7a7a7;'>(Season 1)</span>";
+  document.body.append(TitleSeasonFeatures)
+  
+  const SeasonAdvancePrev = document.createElement("button");
+  SeasonAdvancePrev.setAttribute("class", "season_advance");
+  SeasonAdvancePrev.setAttribute("onclick", "console.clear(); UpdateTable(CurrentRank - 1);");
+  SeasonAdvancePrev.innerHTML = "Previous Season";
+  document.body.append(SeasonAdvancePrev)
 
-request = new XMLHttpRequest();
-request.open("GET", "../../balance/CommonBalance.json", false);
-request.send(null)
-const RewardsFile = JSON.parse(request.responseText);
+  const SeasonAdvanceSelect = document.createElement("button");
+  SeasonAdvanceSelect.setAttribute("class", "season_advance");
+  SeasonAdvanceSelect.setAttribute("onclick", "AdvanceToRank();");
+  SeasonAdvanceSelect.innerHTML = "Advance to Season #";
+  document.body.append(SeasonAdvanceSelect)
 
-const MAXRANK = BalanceFile.MiscBalance.CurrentMaxRank;
-let CurrentRank = 1;
+  const SeasonAdvanceNext = document.createElement("button");
+  SeasonAdvanceNext.setAttribute("class", "season_advance");
+  SeasonAdvanceNext.setAttribute("onclick", "console.clear(); UpdateTable(CurrentRank + 1);");
+  SeasonAdvanceNext.innerHTML = "Next Season";
+  document.body.append(SeasonAdvanceNext)
+
+  const BusinessTableElement = document.createElement("table");
+  BusinessTableElement.setAttribute("id", "BusinessTable");
+  const BuisnessTableTitles = ["Business", "Opening Cost", "Primary Manager", "Kiosk Manager", "Max Level"];
+
+  const tr = document.createElement("tr");
+  for (let i = 0; i < 5; i++)
+  {
+    const row = document.createElement("th");
+    let cellText = document.createTextNode(BuisnessTableTitles[i]);
+    row.appendChild(cellText);
+    tr.appendChild(row);
+  }
+  BusinessTableElement.appendChild(tr);
+  document.body.appendChild(BusinessTableElement)
+  UpdateBusinessTable(1);
+
+  const MissionTableElement = document.createElement("table");
+  MissionTableElement.setAttribute("id", "mission_table");
+  const MissionTableTitles = ["#", "Mission Objective", "Mission Reward"];
+
+  const missiontr = document.createElement("tr");
+  for (let i = 0; i < 3; i++)
+  {
+    const row = document.createElement("th");
+    let cellText = document.createTextNode(MissionTableTitles[i]);
+    row.appendChild(cellText);
+    missiontr.appendChild(row);
+  }
+  MissionTableElement.appendChild(missiontr);
+  document.body.appendChild(MissionTableElement)
+  UpdateTable(1); 
+}
 
 function UpdateTable(Rank)
 {
@@ -159,6 +206,24 @@ function AdvanceToRank()
   console.clear();
 
   if (!isNaN(ToRank) && ToRank != " ") { UpdateTable(ToRank); }
+}
+
+function GachaReader(GachaID)
+{
+    const Index = RewardsFile.Gacha.find(Rewards => Rewards.Id === GachaID);
+    const BoxType = ConvertToReadable(Index.PrefabId);
+    const BoxContent = Index.GachaPoolGroupIds;
+    
+    const Content1 = BoxContent[0];
+    const Content2 = BoxContent[1];
+    const Content3 = BoxContent[2];
+
+    const BoxPoolMan = (RewardsFile.GachaPoolGroups.find(Pool => Pool.Id === Content1)).GachaPools[0].Id;
+    const GachaContents = (RewardsFile.GachaPools.find(Pool => Pool.Id === BoxPoolMan)).WeightedRewards;
+    const IsScripted = (GachaContents.length == 1);
+    console.log(GachaContents)
+
+    if (IsScripted) { return BoxType + " (Scripted)"; } else { return BoxType; }
 }
 
 function UpdateBusinessTable(Rank)

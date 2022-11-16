@@ -4,45 +4,27 @@
 <head>
     <title>Vacation Tycoon Balancing and Data Tracker</title>
     <link rel="stylesheet" href="stylesheet.css">
+
+    <script src="MenuSeasons.js"></script>
+    <script src="MenuManagers.js"></script>
+
+    <script src="Index.js"></script>
     <script src="Powers.js"></script>
     <script src="Readability.js"></script>
-    <script src="MissionTable.js"></script>
-    <script src="GachaData.js"></script>
+    <script src="lang/LocalizationEnglish.js"></script>
+
+    <ul class="topnav">
+        <li class="topnav"><a href="javascript:MenuSeasons();">Seasons</a></li>
+        <li class="topnav"><a href="javascript:MenuManagers();">Managers</a></li>
+        <li class="topnav"><a href="#">Capsules</a></li>
+        <li class="topnav"><a href="#">Events</a></li>
+        <li class="topnav"><a href="#">Shop</a></li>
+        <li class="topnav"><a href="#">Miscellaneous</a></li>
+    </ul>
 </head>
 
-<body onLoad="RunAllScripts();">
-    <h1>Primary Resort</h1>
-
-    <h2>Manager Copies</h2>
-    <p>When you reach the maximum copies for a card, you will recieve tokens as a compremise for the excess copies you own.</p>
-    <ul>
-        <li id="tokensforcard_Common">Tokens for Common</li>
-        <li id="tokensforcard_Rare">Tokens for Rare</li>
-        <li id="tokensforcard_Epic">Tokens for Common</li>
-        <li id="tokensforcard_Legendary">Tokens for Legend</li>
-    </ul> 
-
-    <h2 id="mission_rank">Season Features <span style="color:#a7a7a7;">(Season 1)</span></h2>
-    <button class="season_advance" onclick="console.clear(); UpdateTable(CurrentRank - 1);">Previous Season</button>
-    <button class="season_advance" onclick="AdvanceToRank();">Advance to Season #</button>    
-    <button class="season_advance" onclick="console.clear(); UpdateTable(CurrentRank + 1);">Next Season</button>
-
-    <table id="BusinessTable">
-        <tr>
-            <th>Business</th>
-            <th>Opening Cost</th>
-            <th>Primary Manager</th>
-            <th>Kiosk Manager</th>
-            <th>Max Level</th>
-        </tr>
-    </table>
-    <table id="mission_table">
-        <tr>
-            <th>#</th>
-            <th>Mission Objective</th>
-            <th>Mission Reward</th>
-        </tr>
-    </table>
+<body onLoad="MenuSeasons();">
+    <h2 id="CurrentMenuTitle"></h2>
 </body>
 
 </html>
