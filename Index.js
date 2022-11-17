@@ -26,10 +26,10 @@ function TimeToText(Time)
 {
     let levels = 
     [
-        [Math.floor(seconds / 31536000), 'y'],
-        [Math.floor((seconds % 31536000) / 86400), 'd'],
-        [Math.floor(((seconds % 31536000) % 86400) / 3600), 'h'],
-        [Math.floor((((seconds % 31536000) % 86400) % 3600) / 60), 'm'],
+        [Math.floor(Time / 31536000), 'y'],
+        [Math.floor((Time % 31536000) / 86400), 'd'],
+        [Math.floor(((Time % 31536000) % 86400) / 3600), 'h'],
+        [Math.floor((((Time % 31536000) % 86400) % 3600) / 60), 'm'],
         [(((seconds % 31536000) % 86400) % 3600) % 60, 's'],
     ];
     let returntext = '';
