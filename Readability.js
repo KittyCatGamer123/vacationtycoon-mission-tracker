@@ -1,3 +1,5 @@
+const ENGLISH_MAP = {};
+
 function ConvertToReadable(Type)
 {
   const TypeMap =

@@ -1,3 +1,4 @@
+const ENGLISH_MAP = {};
 const GameLanguage = String.raw`
 ad.AD012.name=Special Delivery
 Ad.Failed.Copy=Do you want to try again?
@@ -3742,3 +3743,18 @@ welcomeback.content.panel.go_container.lbl_earned=Cash collected during your bre
 welcomeback.content.panel.txt_offlinetime=<style=ACWhite>you were offline for</style> {0}
 welcomeback.moneyaway.title=Cash collected during your break: 
 welcomeback.window.title=Welcome Back`;
+
+// I totally definitely did not steal this from AdCom tracker :PepeSweat:
+function InitializeLocalization() 
+{
+    let lines = GameLanguage.split(/\r?\n/);
+    
+    for (let line of lines) 
+    {
+      let keyValue = line.match(/(.*?)=(.*)/);
+      
+      if (keyValue) {
+        ENGLISH_MAP[keyValue[1]] = keyValue[2];
+      }
+    }
+}
