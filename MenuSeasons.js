@@ -56,6 +56,11 @@ function MenuSeasons()
   MissionTableElement.appendChild(missiontr);
   document.body.appendChild(MissionTableElement)
   UpdateTable(1); 
+  
+  const SeasonFreeCycleTitle = document.createElement("h2");
+  const FreeCycleTime = BalanceFile.FreeGachaData.TimeBetweenGachas;
+  SeasonFreeCycleTitle.innerHTML = "Free Capsule Rotation <span style='color:#a7a7a7; size:70%'>Next free every " + TimeToText(FreeCycleTime) + "</span>";
+  document.body.appendChild(SeasonFreeCycleTitle);
 }
 
 function UpdateTable(Rank)
